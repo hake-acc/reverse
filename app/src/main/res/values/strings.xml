@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auth Verifier</string>
+    <string name="welcome_message">Welcome to Auth Verifier</string>
+</resources>
